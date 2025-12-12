@@ -1,13 +1,19 @@
-.....................................................
+
 # 🟣 Sistema de Cadastro de Alunos (Python)
-.....................................................
+
+               - - -
+
 👤**Desenvolvedora: **
 Rafaella Guerra
-________________________________________________________________________ / / __________________________________________________________________________________________________
+
+- - -
+
 #📌 Descrição do Sistema:
 Este projeto implementa um sistema simples para cadastrar, pesquisar, editar e remover alunos, utilizando Python e armazenamento em arquivo CSV através da biblioteca pandas.
 Quando executado, o sistema cria automaticamente o arquivo alunos.csv caso ele não exista, garantindo que os registros fiquem sempre salvos.
-________________________________________________________________________ / / __________________________________________________________________________________________________
+
+ - - -
+ 
 #🛠️Funcionalidades:
 
 - ➕ Inserir aluno
@@ -17,7 +23,9 @@ ________________________________________________________________________ / / ___
 - ♻️ Menu interativo em loop
 - 💾 Salvamento automático em CSV
 - 🔎 Pesquisa insensível a maiúsculas/minúsculas (case-insensitive)
-  ________________________________________________________________________ / / __________________________________________________________________________________________________
+
+- - -
+
 ▶️ Como executar:
 1️⃣ Instalar dependências=
 O sistema usa apenas pandas:
@@ -29,7 +37,9 @@ pip install pandas
 No terminal/PowerShell/cmd:
 
 python sistema_alunos.py
-________________________________________________________________________ / / __________________________________________________________________________________________________
+
+- - -
+
 🖥️ Exemplos de uso:
 O sistema exibe um menu:
 
@@ -37,13 +47,18 @@ O sistema exibe um menu:
 2 - Pesquisar aluno
 3 - Sair
 - As funções são chamadas automaticamente conforme a opção escolhida.
-________________________________________________________________________ / / __________________________________________________________________________________________________
+
+- - -
+
 📚 Tecnologias usadas:
 🔵Python
 🟣pandas
 🟢CSV
 🟡Funções, listas e dicionários
-________________________________________________________________________ / / __________________________________________________________________________________________________
+
+- - -
+
 📝 Commits:
 Este repositório contém commits com mensagens claras e frequentes para registrar o progresso do desenvolvimento, atendendo aos critérios da avaliação.
-________________________________________________________________________ / / __________________________________________________________________________________________________
+
+ - - -
