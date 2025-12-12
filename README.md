@@ -1,9 +1,9 @@
 
 # 🟣 Sistema de Cadastro de Alunos (Python)
 
-               - - -
+               
 
-👤**Desenvolvedora: **
+#👤*Desenvolvedora:*
 Rafaella Guerra
 
 - - -
